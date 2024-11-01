@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gabriel1628
 - 👀 I’m interested in Computer Science, Physics, Mathematics and Brazilian Jiu Jitsu 👊
-- :mortar_board: I have a PhD in Physics and I have achieved a 10-month training in Data Science
-- :office: I am currently working at SII as Data Consultant in R&D
-- 💞️ I’m looking to collaborate on any interesting project
+- :mortar_board: I have a PhD in Physics and I am a certified Data Scientist
+- :office: I have worked for nearly 2 years as a Data Scientist, contributing to a variety of amazing projects
+- 💞️ I’m looking to find a role where I can build, enhance, and maintain data projects to provide solutions to complex problems
 - 📫 How to reach me : gabriel.work2510@gmail.com
 
 <!---
